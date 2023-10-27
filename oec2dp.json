@@ -1,0 +1,202 @@
+{
+  "OIT-JSM-CCV": {
+    "id": "91"
+  },
+  "OIT-JSM-Research Systems": {
+    "id": "111"
+  },
+  "OIT-JSM-Public Safety Technology": {
+    "id": "38"
+  },
+  "OIT-JSM-Media Services": {
+    "id": "12"
+  },
+  "OIT-JSM-EAS-BUSINT": {
+    "id": "35"
+  },
+  "OIT-JSM-CCV User Services": {
+    "id": "37"
+  },
+  "OIT-JSM-Business Intelligence": {
+    "id": "28"
+  },
+  "JSM-Campus Life": {
+    "id": "40"
+  },
+  "JSM-ENGIT": {
+    "id": "30"
+  },
+  "JSM-Facilities Management": {
+    "id": "39"
+  },
+  "JSM-Library": {
+    "id": "42"
+  },
+  "OIT-JSM-CAP": {
+    "id": "1"
+  },
+  "OIT-JSM-CommOps": {
+    "id": "3"
+  },
+  "OIT-JSM-Data Center Facilities": {
+    "id": "14"
+  },
+  "OIT-JSM-DBA": {
+    "id": "4"
+  },
+  "OIT-JSM-DeptSystems-IT": {
+    "id": "46"
+  },
+  "OIT-JSM-Directors": {
+    "id": "43"
+  },
+  "OIT-JSM-EAS-Banner": {
+    "id": "5"
+  },
+  "OIT-JSM-EAS-IdMgmt": {
+    "id": "6"
+  },"OIT-JSM-Endpoint Engineering": {
+    "id": "16"
+  },
+  "OIT-JSM-ISG": {
+    "id": "25"
+  },
+  "OIT-JSM-ITSC": {
+    "id": "10"
+  },
+  "OIT-JSM-ITSC-MGRS": {
+    "id": "146"
+  },
+  "OIT-JSM-Media Production": {
+    "id": "11"
+  },
+  "OIT-JSM-Multimedia Labs": {
+    "id": "26"
+  },
+  "OIT-JSM-Network": {
+    "id": "13"
+  },
+  "OIT-JSM-Operations Center": {
+    "id": "27"
+  },
+  "OIT-JSM-ProjectManagers": {
+    "id": "32"
+  },
+  "OIT-JSM-Salesforce": {
+    "id": "119"
+  },
+  "OIT-JSM-Service Center": {
+    "id": "8"
+  },
+  "OIT-JSM-Storage": {
+    "id": "17"
+  },
+  "OIT-JSM-Telecom": {
+    "id": "19"
+  },
+  "OIT-JSM-Unix": {
+    "id": "21"
+  },
+  "OIT-JSM-VO": {
+    "id": "126"
+  },
+  "OIT-JSM-Web Services": {
+    "id": "22"
+  },
+  "OIT-JSM-Windows Server": {
+    "id": "23"
+  },
+  "CIS-OG-CAP": {
+    "id": "1"
+  },
+  "CIS-OG-EASBanner": {
+    "id": "5"
+  },
+  "CIS-OG-EASIDM": {
+    "id": "6"
+  },
+  "CIS-OG-Endpoint": {
+    "id": "16"
+  },
+  "CIS-OG-ITSCLeads": {
+    "id": "10"
+  },
+  "CIS-OG-PublicSafety":{
+    "id": "114"
+  },
+  "CIS-OG-Telecom": {
+    "id": "19"
+  },
+  "CIS-Staff-Data-Center":{
+    "id": "14"
+  },
+  "CIS-Staff-DBA-team": {
+    "id": "4"
+  },
+  "CIS-Staff-IT-Security": {
+    "id": "25"
+  },
+  "CIS-Staff-Network-Technology": {
+    "id": "13"
+  },
+  "CIS-Staff-Orchestration": {
+    "id": "126"
+  },
+  "CIS-Staff-ProdOps": {
+    "id": "14"
+  },
+  "CIS-Staff-OperationsCenter": {
+    "id": "27"
+  },
+  "CIS-Staff-Storage-Team": {
+    "id": "17"
+  },
+  "CIS-Staff-Systems": {
+    "id": "18"
+  },
+  "CIS-Staff-UNIX-team": {
+    "id": "21"
+  },
+  "CIS-Staff-VMware": {
+    "id": "31"
+  },
+  "CIS-Staff-Web-Services": {
+    "id": "22"
+  },
+  "CIS-Staff-Windows-team": {
+    "id": "23"
+  },
+  "EAS Emergency Termination": {
+    "id": "1"
+  },
+  "FM-Opsgenie-Responders": {
+    "id": "39"
+  },
+  "OG-Dining-Services": {
+    "id": "46"
+  },
+  "CIS-OG-CCV-Systems": {
+    "id": "91"
+  },
+  "CIS-OG-ResearchCompute": {
+    "id": "37"
+  },
+  "CIS-OG-CCV-ResearchSystems": {
+    "id": "111"
+  },
+  "CIS-OG-Media-Services": {
+    "id": "12"
+  },
+  "CIS-OG-Data-Center-Facilities": {
+    "id": "14"
+  },
+  "OIT-OG-Storage": {
+    "id": "17"
+  },
+  "OIT-OG-VO": {
+    "id": "126"
+  },
+  "OIT-OG-Help-Desk": {
+    "id": "8"
+  } 
+}
